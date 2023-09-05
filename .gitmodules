@@ -1,0 +1,3 @@
+[submodule "ostock-licensing-microservice"]
+	path = ostock-licensing-microservice
+	url = https://github.com/Ginowine/ostock-licensing-microservice.git
